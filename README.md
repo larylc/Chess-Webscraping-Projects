@@ -42,7 +42,11 @@ Chess player performance is measured using an Elo rating system where wins, draw
 ### Access File: The csv is for this project is too large. 
 
 
+## Contact Me
 
+|**Contact Method**  |                          |
+| -------------------| -------------------------|
+| Professional Email | cedric.lary1@gmail.com   |
 
 
 
