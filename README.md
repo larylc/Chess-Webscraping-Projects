@@ -11,7 +11,7 @@ Chess player performance is measured using an Elo rating system where wins, draw
 ### [Project 1](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/chess_project.ipynb)
 **Summary**: Produced csv file of top 100 FIDE chess players using webscraping tools. 
 
-<details>
+-<details>
 <summary><b>See Libaries Used:</b></summary>
   
 * pandas
@@ -22,7 +22,7 @@ Chess player performance is measured using an Elo rating system where wins, draw
 
 </details>
 
-### [Access File](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/top_grandmasters.csv)
+-### [Access File](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/top_grandmasters.csv)
 
 
 
