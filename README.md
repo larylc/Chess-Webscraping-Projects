@@ -8,7 +8,7 @@ Chess player performance is measured using an Elo rating system where wins, draw
 
 ## Projects
  
-### [Project 1](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/chess_project.ipynb)
+### [Project 1: "Elite Chess Grandmaster Web Scraping Project"](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/chess_project.ipynb)
 **Summary**: Produced csv file of top 100 FIDE chess players using webscraping tools. 
 
 <details>
