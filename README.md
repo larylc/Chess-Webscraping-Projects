@@ -39,7 +39,7 @@ Chess player performance is measured using an Elo rating system where wins, draw
 
 </details>
 
-### Access File: The csv is for this project is too large. 
+### Access File: The csv for this project is too large. 
 
 
 ## Contact Me
