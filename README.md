@@ -48,6 +48,9 @@ What makes the data produced in these projects different from other sources is t
 
 In the web-scraping projects above, ratings up to June 2021 were produced. Using the same code, more recent September data is now available. Unfortunately, some of the files were too large to upload on GitHub, so the ones that were small enough were uploaded. 
 
+Descriptions of files: 
++ **masters_table_2400s_sept.csv**: All chess masters rated 2400-2499 and their rating histories. 
++ **masters_table_2500s_sept.csv**: All chess masters rated 2500+  and their rating histories. 
 
 
 
