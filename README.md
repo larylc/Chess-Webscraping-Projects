@@ -46,7 +46,7 @@ What makes the data produced in these projects different from other sources is t
 
 ## CSV Files
 
-The web-scraping projects produced data sets up to June 2021. Using the same procedures as above, more recent September data was produced. Unfortunately, some of the files were too large to upload on GitHub, so the ones that were small enough were uploaded. 
+In the web-scraping projects above ratings up to June 2021 were produced. Using the same code, more recent September data is now available. Unfortunately, some of the files were too large to upload on GitHub, so the ones that were small enough were uploaded. 
 
 
 
