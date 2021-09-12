@@ -44,9 +44,11 @@ What makes the data produced in these projects different from other sources is t
 ### Access File: The csv for this project is too large.
 ---
 
-## Additional Files
+## CSV Files
 
-The web-scraping projects produced data sets up to June 2021. Recent September data using the same procedures are now avaible in this repository.  
+The web-scraping projects produced data sets up to June 2021. Using the same procedures as above, more recent September data was produced. Unfortunately, some of the files were too large to upload on GitHub, so the ones that were small enough were uploaded. 
+
+
 
 
 
