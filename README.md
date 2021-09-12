@@ -24,7 +24,7 @@ What makes the data produced in these projects different from other sources is t
 
 </details>
 
-### [Access File](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/top_grandmasters.csv)
+### [Access File](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/top_grandmasters_june.csv)
 ---
 
 ### [Project 2: "The Path to Chess Masterhood Part 1" (chess_project_masters.ipynb)](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/chess_project_masters.ipynb)
