@@ -1,6 +1,3 @@
-## In progress...
-
-
 ##  Introduction 
 This repository contains several chess related web scraping projects. My goals were to practice using webscraping tools like pandas.read_html, BeautifulSoup, and Selenium to extract and analyze data from chess websites.
 
