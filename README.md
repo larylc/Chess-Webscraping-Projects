@@ -51,7 +51,9 @@ Descriptions of files:
 + [**top_grandmasters_sept.csv**](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/top_grandmasters_sept.csv): Top 100 or so grandmasters and their rating histories.
 
 
+## Chess Webscraping Projects Continued
 
+See the [**More-Chess-Webscraped-Data Repository**](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/README.md) for more chess webscaping projects and data sets. 
 
 
 
