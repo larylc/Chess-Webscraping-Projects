@@ -51,7 +51,7 @@ Descriptions of files:
 + [**masters_table_2400s_sept.csv**](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/masters_table_2400s_sept.csv): All chess masters rated 2400-2499 and their rating histories. 
 + [**masters_table_2500s_sept.csv**](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/masters_table_2500s_sept.csv): All chess masters rated 2500+ and their rating histories. 
 + [**top_grandmasters_sept.csv**](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/top_grandmasters_sept.csv): Top 100 or so grandmasters and their rating histories.
-+ [**masters_table_oct_to_dec.csv**](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/top_grandmasters_sept.csv): Rest of chess master rating data from oct-dec 2021 (includes all chess masters 2200+).
++ [**masters_table_oct_to_dec.csv**](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/masters_table_oct_to_dec.csv): Rest of chess master rating data from oct-dec 2021 (includes all chess masters 2200+).
 
 
 ## Chess Webscraping Projects Continued
