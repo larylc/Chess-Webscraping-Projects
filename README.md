@@ -38,7 +38,7 @@ What makes the data produced in these projects different from other sources is t
 
 </details>
 
-### Access File: The csv for this project is too large.
+### Access File: The csv for this project was too large to post on GitHub so the files were broken up by player rating ranges.
 ---
 
 ## More CSV Files
