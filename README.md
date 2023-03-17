@@ -54,7 +54,7 @@ Descriptions of files:
 + [**masters_table_oct_to_dec.csv**](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/masters_table_oct_to_dec.csv): Rest of chess master rating data from oct-dec 2021 (includes all chess masters 2200+).
 
 
-## Chess Webscraping Projects Continued
+## [Projects 3-5: Chess Webscraping Projects Continued](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/README.md)
 
 See the [**More-Chess-Webscraped-Data Repository**](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/README.md) for more chess webscaping projects and data sets. 
 
