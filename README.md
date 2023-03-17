@@ -38,7 +38,7 @@ What makes the data produced in these projects different from other sources is t
 
 </details>
 
-### Access File: The csv for this project was too large to post on GitHub so the files were broken up by player rating ranges.
+### [Access Files](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/masters_table_2500s_sept.csv): The csv for this project was too large to post on GitHub so the files were broken up by player rating ranges.
 ---
 
 ## More CSV Files
