@@ -56,7 +56,7 @@ Descriptions of files:
 
 ## [Projects 3-5: Chess Webscraping Projects Continued](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/README.md)
 
-Summary: The [**More-Chess-Webscraped-Data Repository**](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/README.md) contains web scraping projects that combined data from project 2 with data gathered from Wikipedia and and online database.
+Summary: The [**More-Chess-Webscraped-Data Repository**](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/README.md) contains web scraping projects that combined data from project 2 with data gathered from Wikipedia and the Olimpbase online database.
 
 
 
