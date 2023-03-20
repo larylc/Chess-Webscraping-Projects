@@ -43,7 +43,7 @@ What makes the data produced in these projects different from other sources is t
 
 ## More CSV Files
 
-In the web-scraping projects above, ratings up to June 2021 were produced. Using the same code, more recent September data is now available. Unfortunately, some of the files were too large to upload on GitHub (the 2 files with chess masters rated 2200-2400), so the ones that were small enough were uploaded. 
+In the web-scraping projects above, ratings up to June 2021 were produced. Using the same code, more recent September data is now available. Unfortunately, some of the files were too large to upload on GitHub (the 2 files with chess masters rated 2200-2399), so the ones that were small enough were uploaded. 
 
 Update: Chess master data from October- December of 2021 is now available.
 
